@@ -1,6 +1,6 @@
 # Project: au-crawler
 
-## Description: Howto on using [Willhaben API](https://github.com/CP02A/willhaben.git). For more details look at readme.
+Description: Howto on using [Willhaben API](https://github.com/CP02A/willhaben.git). For more details look at readme.
 
 ## Enter and build the API:
 
