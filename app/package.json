@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "willhaben": "file:../willhaben"
+  }
+}
