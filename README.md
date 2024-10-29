@@ -31,4 +31,7 @@ Description: Howto on using [Willhaben API](https://github.com/CP02A/willhaben.g
    # 04.py - example of using generated JSON files in Python
    python 04.py out1.json
    python 04.py out2.json
+   # 05.js & 06.js - other two examples given at the original site
+   node 05.js
+   node 06.js
 ```
